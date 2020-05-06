@@ -13,4 +13,4 @@ Script ini dibilang script lama, namun script ini bisa kalian gunakan secara pre
 </ul>
 <br />
 <br />
-<img src="https://github.com/MrDebo/New-Elite/blob/master/Screenshot_2020-03-07-15-10-58-762_com.termux-picsay.png" />
+<img src="https://github.com/SansBae/DarkPatch/blob/master/Screenshot_2020-05-06-11-52-42-65%5B1%5D.png" />
